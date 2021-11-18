@@ -20,3 +20,8 @@ release 3
 Major feature for next release 2.1.
 Major feature for next release 2.2.
 Major feature for next release 2.3.
+
+Feature for future release 1.
+Feature for future release 2.
+Feature for future release 3.
+Feature for future release 4.
