@@ -16,3 +16,7 @@ Major feature for next release 3.
 release 1
 release 2(Only bugfixes!)
 release 3
+
+Major feature for next release 2.1.
+Major feature for next release 2.2.
+Major feature for next release 2.3.
