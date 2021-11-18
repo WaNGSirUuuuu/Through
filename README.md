@@ -5,3 +5,5 @@
 develop 1
 develop 2
 develop 3
+
+Major feature for next release 1.
